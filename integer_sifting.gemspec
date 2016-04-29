@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.date = %q{2015-06-13}
   s.description = %q{A integer sifting algorithm}
   s.email = %q{siddiqui.saleem@gmail.com}
-  s.files = ["Rakefile", "bin/integer_sifter", "lib/integer_sifter/abba_sifter.rb", "lib/integer_sifting.rb"]
-  s.test_files = ["test/test_hola.rb"]
+  s.files = ["Rakefile", "bin/integer_sifter", "lib/integer_sifter/abba_sifter.rb", "lib/integer_sifter.rb"]
+  s.test_files = ["test/test_sifting.rb"]
   s.homepage = %q{http://rubygems.org/gems/integer_sifter}
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.6.2}
